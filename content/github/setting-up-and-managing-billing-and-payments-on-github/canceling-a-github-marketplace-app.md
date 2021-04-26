@@ -39,7 +39,7 @@ When you cancel a free trial on a paid plan, your subscription is immediately ca
 
 
 {% data reusables.profile.access_org %}
-{% data reusables.profiles.org_settings %}
+{% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing %}
 {% data reusables.user_settings.subscriptions-tab %}
 {% data reusables.marketplace.cancel-app-billing-settings %}
@@ -51,7 +51,7 @@ When you cancel a free trial on a paid plan, your subscription is immediately ca
 
 
 {% data reusables.profile.access_org %}
-{% data reusables.profiles.org_settings %}
+{% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing %}
 {% data reusables.user_settings.subscriptions-tab %}
 {% data reusables.marketplace.cancel-free-trial-billing-settings %}

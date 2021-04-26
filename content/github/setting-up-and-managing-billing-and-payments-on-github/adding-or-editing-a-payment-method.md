@@ -39,7 +39,7 @@ If your organization is outside of the US or if you're using a corporate checkin
 
 
 {% data reusables.profile.access_org %}
-{% data reusables.profiles.org_settings %}
+{% data reusables.profile.org_settings %}
 {% data reusables.organizations.billing %}
 {% data reusables.dotcom_billing.update_payment_method %}
 {% data reusables.dotcom_billing.enter-payment-info %}
